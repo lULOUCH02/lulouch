@@ -1,0 +1,7 @@
+yfinance
+pandas
+ta
+feedparser
+pytz
+python-dateutil
+requests
